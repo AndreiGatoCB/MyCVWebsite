@@ -1,0 +1,157 @@
+/********************TAGS************************/
+body {
+  font-family: 'Merriweather', serif;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #E26A2C;
+  line-height: 1;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #E26A2C;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: normal;
+}
+
+h3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #E26A2C;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: #FDA65D;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFD07F;
+}
+
+div {
+  padding: 20px 20px 20px 20px;
+}
+
+hr {
+  border-style: dotted;
+  color: #FFD07F;
+  width: 5%;
+  border-top: 0;
+  border-width: 10px;
+}
+
+/********************CLASSES TAGS************************/
+
+.p2 {
+  text-align: justify;
+}
+
+.h-right {
+  text-align: center;
+}
+
+.top-container {
+  background-color: #FFD07F;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  position: relative;
+}
+
+.bottom-container {
+  margin: 0 auto 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  background-color: #E26A2C;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  bottom: 400px;
+  left: 300px;
+  position: absolute;
+}
+
+.mountain {
+  position: relative;
+  height: 400px;
+  color: #E26A2C;
+}
+
+.skill {
+  width: 60%;
+  margin: 25px auto 25px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.img-skill-1 {
+  height: 150px;
+  float: left;
+  position: static;
+  top: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+
+.img-skill-2 {
+  height: 120px;
+  float: right;
+  margin-left: -30px;
+  margin-right: -30px;
+  margin-top: 30px;
+}
+
+.footer-link {
+  color: #FFD07F
+}
+
+.btn {
+  background-color: #E26A2C;
+  color: #FFD07F;
+  padding: 5px;
+  padding-top: 8px;
+  border: 2px solid #FF8243;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background: #FF8243
+}
+
+.surname {
+  color: #FFD07F;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1rem;
+  padding: 20px 0;
+}
